@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Architecture.png](https://github.com/tripathiraj981/Decentralized-Blogging/blob/main/Architecture.png)
+![Architecture.png](https://github.com/tripathiraj981/Dapp-Blog/blob/main/Architecture.png)
 
 *Figure 1: High-level architecture of the Secure Communication Project*
 
