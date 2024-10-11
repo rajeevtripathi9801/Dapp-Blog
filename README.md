@@ -100,8 +100,6 @@ yarn dev
 
 ![twitter-home](https://user-images.githubusercontent.com/67114280/190386101-430f4c10-d533-4c85-b006-5591009bf1c9.png)
 
-![twitter-main](https://user-images.githubusercontent.com/67114280/190386980-6f45d816-feb9-4c80-be07-1416233fa90d.png)
-
 ![full-page-shot](https://user-images.githubusercontent.com/67114280/190386248-4572fbb4-b0d1-4be9-b15e-31469e5835a8.png)
 
 #### Responsive
