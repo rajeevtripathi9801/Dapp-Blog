@@ -24,9 +24,7 @@
 
 ####  Fork The Repo 
 
-Click on the Right Side of the Top Bar to After the Watch button. <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" width="120px" />
-
-Now It will be available in GitHub Account.
+Click on the Right Side of top Bar to After the Watch button. <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" width="120px" />
 
 #### OR
 
